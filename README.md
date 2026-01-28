@@ -1,5 +1,8 @@
 # datascience.github.io
 Data Science Program - Shaper January 2026
+
 I am a data science learner with a strong interest in applying data-driven solutions within the healthcare domain. My focus is on using data analysis and machine learning to uncover insights that can improve patient outcomes and healthcare decision-making. I aim to grow into a junior data scientist role within the healthcare sector.
+
 Project 1: Healthcare Data Analysis Dashboard , Analyze a publicly available healthcare dataset (such as patient records or hospital statistics) to identify trends in disease prevalence, treatment outcomes, or resource usage. The project will include data cleaning, exploratory data analysis, and visualizations using Python.
+
 Project 2: Predicting Patient Readmission Risk , Build a basic machine learning model that predicts the likelihood of patient readmission based on historical healthcare data. This project will focus on feature selection, model evaluation, and ethical handling of sensitive data. 
